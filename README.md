@@ -1,8 +1,6 @@
 
 
-# List of Free Learning Resources [Awesome](https://github.com/sindresorhus/awesome)
-
-[Awesome rawgit](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This page is available as an easy-to-read website at
 #  [中文 ](/free-programming-books-zh.md).
